@@ -12,3 +12,17 @@ C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\11-concat_
 C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\11-concat_edges\obj\Debug\net7.0\11-concat_edges.pdb
 C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\11-concat_edges\obj\Debug\net7.0\11-concat_edges.genruntimeconfig.cache
 C:\Users\USER\Downloads\PortableGit\ALU\alu-csharp\csharp-hello_world\11-concat_edges\obj\Debug\net7.0\ref\11-concat_edges.dll
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-hello_world\11-concat_edges\bin\Debug\net7.0\11-concat_edges.exe
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-hello_world\11-concat_edges\bin\Debug\net7.0\11-concat_edges.deps.json
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-hello_world\11-concat_edges\bin\Debug\net7.0\11-concat_edges.runtimeconfig.json
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-hello_world\11-concat_edges\bin\Debug\net7.0\11-concat_edges.dll
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-hello_world\11-concat_edges\bin\Debug\net7.0\11-concat_edges.pdb
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-hello_world\11-concat_edges\obj\Debug\net7.0\11-concat_edges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-hello_world\11-concat_edges\obj\Debug\net7.0\11-concat_edges.AssemblyInfoInputs.cache
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-hello_world\11-concat_edges\obj\Debug\net7.0\11-concat_edges.AssemblyInfo.cs
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-hello_world\11-concat_edges\obj\Debug\net7.0\11-concat_edges.csproj.CoreCompileInputs.cache
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-hello_world\11-concat_edges\obj\Debug\net7.0\11-concat_edges.dll
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-hello_world\11-concat_edges\obj\Debug\net7.0\refint\11-concat_edges.dll
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-hello_world\11-concat_edges\obj\Debug\net7.0\11-concat_edges.pdb
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-hello_world\11-concat_edges\obj\Debug\net7.0\11-concat_edges.genruntimeconfig.cache
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-hello_world\11-concat_edges\obj\Debug\net7.0\ref\11-concat_edges.dll
