@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\USER\\.nuget\\packages\\": {}
+    "C:\\Users\\Yvan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Downloads\\PortableGit\\ALU\\alu-csharp\\csharp-hello_world\\8-print_variables\\8-print_variables.csproj",
+      "projectUniqueName": "C:\\Users\\Yvan\\Downloads\\alu-csharp-main\\csharp-hello_world\\8-print_variables\\8-print_variables.csproj",
       "projectName": "8-print_variables",
-      "projectPath": "C:\\Users\\USER\\Downloads\\PortableGit\\ALU\\alu-csharp\\csharp-hello_world\\8-print_variables\\8-print_variables.csproj",
-      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Downloads\\PortableGit\\ALU\\alu-csharp\\csharp-hello_world\\8-print_variables\\obj\\",
+      "projectPath": "C:\\Users\\Yvan\\Downloads\\alu-csharp-main\\csharp-hello_world\\8-print_variables\\8-print_variables.csproj",
+      "packagesPath": "C:\\Users\\Yvan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Yvan\\Downloads\\alu-csharp-main\\csharp-hello_world\\8-print_variables\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Yvan\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

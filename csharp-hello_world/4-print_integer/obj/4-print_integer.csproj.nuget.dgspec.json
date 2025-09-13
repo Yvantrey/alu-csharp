@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Downloads\\PortableGit\\ALU\\alu-csharp\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj": {}
+    "C:\\Users\\Yvan\\Downloads\\alu-csharp-main\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Downloads\\PortableGit\\ALU\\alu-csharp\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj": {
+    "C:\\Users\\Yvan\\Downloads\\alu-csharp-main\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Downloads\\PortableGit\\ALU\\alu-csharp\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj",
+        "projectUniqueName": "C:\\Users\\Yvan\\Downloads\\alu-csharp-main\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj",
         "projectName": "4-print_integer",
-        "projectPath": "C:\\Users\\USER\\Downloads\\PortableGit\\ALU\\alu-csharp\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Downloads\\PortableGit\\ALU\\alu-csharp\\csharp-hello_world\\4-print_integer\\obj\\",
+        "projectPath": "C:\\Users\\Yvan\\Downloads\\alu-csharp-main\\csharp-hello_world\\4-print_integer\\4-print_integer.csproj",
+        "packagesPath": "C:\\Users\\Yvan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yvan\\Downloads\\alu-csharp-main\\csharp-hello_world\\4-print_integer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Yvan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
