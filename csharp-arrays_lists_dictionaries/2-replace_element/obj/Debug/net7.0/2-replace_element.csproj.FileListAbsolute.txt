@@ -1,0 +1,14 @@
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\2-replace_element\bin\Debug\net7.0\2-replace_element.exe
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\2-replace_element\bin\Debug\net7.0\2-replace_element.deps.json
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\2-replace_element\bin\Debug\net7.0\2-replace_element.runtimeconfig.json
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\2-replace_element\bin\Debug\net7.0\2-replace_element.dll
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\2-replace_element\bin\Debug\net7.0\2-replace_element.pdb
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net7.0\2-replace_element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net7.0\2-replace_element.AssemblyInfoInputs.cache
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net7.0\2-replace_element.AssemblyInfo.cs
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net7.0\2-replace_element.csproj.CoreCompileInputs.cache
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net7.0\2-replace_element.dll
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net7.0\refint\2-replace_element.dll
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net7.0\2-replace_element.pdb
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net7.0\2-replace_element.genruntimeconfig.cache
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net7.0\ref\2-replace_element.dll
