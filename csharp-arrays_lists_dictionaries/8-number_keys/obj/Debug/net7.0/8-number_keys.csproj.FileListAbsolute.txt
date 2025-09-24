@@ -1,0 +1,14 @@
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\8-number_keys\bin\Debug\net7.0\8-number_keys.exe
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\8-number_keys\bin\Debug\net7.0\8-number_keys.deps.json
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\8-number_keys\bin\Debug\net7.0\8-number_keys.runtimeconfig.json
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\8-number_keys\bin\Debug\net7.0\8-number_keys.dll
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\8-number_keys\bin\Debug\net7.0\8-number_keys.pdb
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\8-number_keys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\8-number_keys.AssemblyInfoInputs.cache
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\8-number_keys.AssemblyInfo.cs
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\8-number_keys.csproj.CoreCompileInputs.cache
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\8-number_keys.dll
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\refint\8-number_keys.dll
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\8-number_keys.pdb
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\8-number_keys.genruntimeconfig.cache
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net7.0\ref\8-number_keys.dll
