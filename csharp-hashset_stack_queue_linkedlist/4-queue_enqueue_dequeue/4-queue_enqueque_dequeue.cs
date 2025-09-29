@@ -1,54 +1,39 @@
 ﻿using System;
 using System.Collections.Generic;
 
-public class MyQueue
+class MyQueue
 {
     public static Queue<string> Info(Queue<string> aQueue, string newItem, string search)
     {
-        if (aQueue == null)
-            aQueue = new Queue<string>();
+        // 1. Print number of items
+        Console.WriteLine("Number of items: " + aQueue.Count);
 
-        // Number of items
-        Console.WriteLine($"Number of items: {aQueue.Count}");
+        // 2. Print first item or empty message
+        if (aQueue.Count > 0)
+            Console.WriteLine("First item: " + aQueue.Peek());
+        else
+            Console.WriteLine("Queue is empty");
 
-        // First item
-        string? firstItem = aQueue.Count > 0 ? aQueue.Peek() : null;
-        Console.WriteLine(firstItem != null ? $"First item: {firstItem}" : "Queue is empty");
-
-        // Add new item
+        // 3. Add new item
         aQueue.Enqueue(newItem);
 
-        // Check if contains search item
-        bool containsSearch = aQueue.Contains(search);
-        Console.WriteLine($"Queue contains \"{search}\": {containsSearch}");
+        // 4. Print if queue contains search
+        bool contains = aQueue.Contains(search);
+        Console.WriteLine($"Queue contains \"{search}\": {contains}");
 
-        // Remove items up to and including search
-        if (containsSearch)
+        // 5. If contains, remove items up to and including search
+        if (contains)
         {
-            Queue<string> tempQueue = new Queue<string>();
-            bool found = false;
+            Queue<string> temp = new Queue<string>();
 
-            while (aQueue.Count > 0)
+            string dequeued;
+            do
             {
-                string item = aQueue.Dequeue();
-                if (item == search)
-                {
-                    found = true;
-                    break;
-                }
-                else
-                {
-                    tempQueue.Enqueue(item);
-                }
+                dequeued = aQueue.Dequeue();  // allowed once per loop
             }
-
-            while (tempQueue.Count > 0)
-            {
-                aQueue.Enqueue(tempQueue.Dequeue());
-            }
+            while (dequeued != search);
         }
 
         return aQueue;
     }
 }
-
