@@ -1,0 +1,14 @@
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\10-delete_key_value\bin\Debug\net7.0\10-delete_key_value.exe
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\10-delete_key_value\bin\Debug\net7.0\10-delete_key_value.deps.json
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\10-delete_key_value\bin\Debug\net7.0\10-delete_key_value.runtimeconfig.json
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\10-delete_key_value\bin\Debug\net7.0\10-delete_key_value.dll
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\10-delete_key_value\bin\Debug\net7.0\10-delete_key_value.pdb
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\10-delete_key_value\obj\Debug\net7.0\10-delete_key_value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\10-delete_key_value\obj\Debug\net7.0\10-delete_key_value.AssemblyInfoInputs.cache
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\10-delete_key_value\obj\Debug\net7.0\10-delete_key_value.AssemblyInfo.cs
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\10-delete_key_value\obj\Debug\net7.0\10-delete_key_value.csproj.CoreCompileInputs.cache
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\10-delete_key_value\obj\Debug\net7.0\10-delete_key_value.dll
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\10-delete_key_value\obj\Debug\net7.0\refint\10-delete_key_value.dll
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\10-delete_key_value\obj\Debug\net7.0\10-delete_key_value.pdb
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\10-delete_key_value\obj\Debug\net7.0\10-delete_key_value.genruntimeconfig.cache
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-arrays_lists_dictionaries\10-delete_key_value\obj\Debug\net7.0\ref\10-delete_key_value.dll
