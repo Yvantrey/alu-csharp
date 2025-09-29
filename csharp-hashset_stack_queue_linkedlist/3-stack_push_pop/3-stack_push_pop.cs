@@ -1,54 +1,35 @@
 ﻿using System;
 using System.Collections.Generic;
 
-public class MyStack
+class MyStack
 {
     public static Stack<string> Info(Stack<string> aStack, string newItem, string search)
     {
-        if (aStack == null)
-            aStack = new Stack<string>();
+        Console.WriteLine("Number of items: " + aStack.Count);
 
-        // Number of items
-        Console.WriteLine($"Number of items: {aStack.Count}");
+        if (aStack.Count > 0)
+            Console.WriteLine("Top item: " + aStack.Peek());
+        else
+            Console.WriteLine("Stack is empty");
 
-        // Top item
-        string? topItem = aStack.Count > 0 ? aStack.Peek() : null;
-        Console.WriteLine(topItem != null ? $"Top item: {topItem}" : "Stack is empty");
+        bool contains = aStack.Contains(search);
+        Console.WriteLine($"Stack contains \"{search}\": {contains}");
 
-        // Check if contains search item
-        bool containsSearch = aStack.Contains(search);
-        Console.WriteLine($"Stack contains \"{search}\": {containsSearch}");
-
-        // Remove items up to and including search
-        if (containsSearch)
+        if (contains)
         {
-            Stack<string> tempStack = new Stack<string>();
-            bool found = false;
+            Stack<string> temp = new Stack<string>();
 
-            while (aStack.Count > 0)
+            string popped;
+            do
             {
-                string item = aStack.Pop();
-                if (item == search)
-                {
-                    found = true;
-                    break;
-                }
-                else
-                {
-                    tempStack.Push(item);
-                }
+                popped = aStack.Pop();
             }
+            while (popped != search);
 
-            while (tempStack.Count > 0)
-            {
-                aStack.Push(tempStack.Pop());
-            }
         }
 
-        // Add new item
         aStack.Push(newItem);
 
         return aStack;
     }
 }
-
