@@ -11,8 +11,18 @@ public class List
         {
             try
             {
-                int result = list1[i] / list2[i];
-                newList.Add(result);
+                // Check if either list is too short before dividing
+                if (i >= list1.Count || i >= list2.Count)
+                {
+                    throw new ArgumentOutOfRangeException();
+                }
+
+                if (list2[i] == 0)
+                {
+                    throw new DivideByZeroException();
+                }
+
+                newList.Add(list1[i] / list2[i]);
             }
             catch (DivideByZeroException)
             {
@@ -22,10 +32,6 @@ public class List
             catch (ArgumentOutOfRangeException)
             {
                 Console.WriteLine("Out of range");
-                newList.Add(0);
-            }
-            catch (Exception)
-            {
                 newList.Add(0);
             }
         }
