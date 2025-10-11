@@ -1,0 +1,14 @@
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-exceptions\2-divide_lists\bin\Debug\net7.0\2-divide_lists.exe
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-exceptions\2-divide_lists\bin\Debug\net7.0\2-divide_lists.deps.json
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-exceptions\2-divide_lists\bin\Debug\net7.0\2-divide_lists.runtimeconfig.json
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-exceptions\2-divide_lists\bin\Debug\net7.0\2-divide_lists.dll
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-exceptions\2-divide_lists\bin\Debug\net7.0\2-divide_lists.pdb
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.AssemblyInfoInputs.cache
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.AssemblyInfo.cs
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.csproj.CoreCompileInputs.cache
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.dll
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\refint\2-divide_lists.dll
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.pdb
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\2-divide_lists.genruntimeconfig.cache
+C:\Users\Yvan\Downloads\alu-csharp-main\csharp-exceptions\2-divide_lists\obj\Debug\net7.0\ref\2-divide_lists.dll

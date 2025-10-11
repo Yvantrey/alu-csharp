@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-class List
+public class List
 {
     public static List<int> Divide(List<int> list1, List<int> list2, int listLength)
     {
@@ -11,7 +11,8 @@ class List
         {
             try
             {
-                newList.Add(list1[i] / list2[i]);
+                int result = list1[i] / list2[i];
+                newList.Add(result);
             }
             catch (DivideByZeroException)
             {
@@ -21,6 +22,10 @@ class List
             catch (ArgumentOutOfRangeException)
             {
                 Console.WriteLine("Out of range");
+                newList.Add(0);
+            }
+            catch (Exception)
+            {
                 newList.Add(0);
             }
         }
