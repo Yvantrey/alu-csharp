@@ -50,18 +50,6 @@ To set up and run the project:
    dotnet test
    ```
 
-## Directory Structure
-
-```
-0-add/
-├── 0-add.sln
-├── MyMath/
-│   ├── MyMath.cs
-│   └── MyMath.csproj
-└── MyMath.Tests/
-    ├── MyMath.Tests.cs
-    └── MyMath.Tests.csproj
-```
-
 ## Author
+
 Yvan
