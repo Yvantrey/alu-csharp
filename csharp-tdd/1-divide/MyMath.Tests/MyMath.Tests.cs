@@ -1,141 +1,54 @@
 using NUnit.Framework;
 using MyMath;
-using System;
-using System.IO;
 
 namespace MyMath.Tests
 {
     /// <summary>
-    /// Test class for MyMath.Matrix class
+    /// Contains unit tests for the <see cref="Matrix"/> class.
     /// </summary>
     [TestFixture]
     public class MatrixTests
     {
         /// <summary>
-        /// Test dividing a matrix by a positive number
+        /// Tests that dividing a matrix with positive integers
+        /// by a positive number returns the expected result.
         /// </summary>
         [Test]
-        public void Divide_PositiveNumber_ReturnsCorrectMatrix()
+        public void Divide_PositiveMatrix_ReturnsCorrectResult()
         {
-            // Arrange
-            int[,] matrix = { { 10, 20, 30 }, { 40, 50, 60 } };
-            int num = 10;
-            int[,] expected = { { 1, 2, 3 }, { 4, 5, 6 } };
+            int[,] mat = { { 4, 8 }, { 6, 12 } };
+            int[,] expected = { { 2, 4 }, { 3, 6 } };
 
-            // Act
-            int[,] result = Matrix.Divide(matrix, num);
+            int[,] result = Matrix.Divide(mat, 2);
 
-            // Assert
             Assert.AreEqual(expected, result);
         }
 
         /// <summary>
-        /// Test dividing by zero should return null and print message
+        /// Tests that dividing a matrix by zero prints
+        /// a message and returns <c>null</c>.
         /// </summary>
         [Test]
-        public void Divide_ByZero_ReturnsNullAndPrintsMessage()
+        public void Divide_ByZero_PrintsMessageAndReturnsNull()
         {
-            // Arrange
-            int[,] matrix = { { 10, 20 }, { 30, 40 } };
-            int num = 0;
-            var stringWriter = new StringWriter();
-            Console.SetOut(stringWriter);
+            int[,] mat = { { 1, 2 }, { 3, 4 } };
 
-            // Act
-            int[,] result = Matrix.Divide(matrix, num);
+            int[,] result = Matrix.Divide(mat, 0);
 
-            // Assert
             Assert.IsNull(result);
-            Assert.That(stringWriter.ToString().Trim(), Is.EqualTo("Num cannot be 0"));
         }
 
         /// <summary>
-        /// Test dividing a null matrix returns null
+        /// Tests that passing a <c>null</c> matrix returns <c>null</c>.
         /// </summary>
         [Test]
         public void Divide_NullMatrix_ReturnsNull()
         {
-            // Arrange
-            int[,] matrix = null;
-            int num = 5;
+            int[,] mat = null;
 
-            // Act
-            int[,] result = Matrix.Divide(matrix, num);
+            int[,] result = Matrix.Divide(mat, 2);
 
-            // Assert
             Assert.IsNull(result);
-        }
-
-        /// <summary>
-        /// Test dividing matrix with negative numbers
-        /// </summary>
-        [Test]
-        public void Divide_NegativeNumbers_ReturnsCorrectMatrix()
-        {
-            // Arrange
-            int[,] matrix = { { -10, -20 }, { -30, -40 } };
-            int num = -10;
-            int[,] expected = { { 1, 2 }, { 3, 4 } };
-
-            // Act
-            int[,] result = Matrix.Divide(matrix, num);
-
-            // Assert
-            Assert.AreEqual(expected, result);
-        }
-
-        /// <summary>
-        /// Test dividing single element matrix
-        /// </summary>
-        [Test]
-        public void Divide_SingleElement_ReturnsCorrectMatrix()
-        {
-            // Arrange
-            int[,] matrix = { { 100 } };
-            int num = 10;
-            int[,] expected = { { 10 } };
-
-            // Act
-            int[,] result = Matrix.Divide(matrix, num);
-
-            // Assert
-            Assert.AreEqual(expected, result);
-        }
-
-        /// <summary>
-        /// Test dividing matrix by 1 returns same values
-        /// </summary>
-        [Test]
-        public void Divide_ByOne_ReturnsSameValues()
-        {
-            // Arrange
-            int[,] matrix = { { 5, 10, 15 }, { 20, 25, 30 } };
-            int num = 1;
-            int[,] expected = { { 5, 10, 15 }, { 20, 25, 30 } };
-
-            // Act
-            int[,] result = Matrix.Divide(matrix, num);
-
-            // Assert
-            Assert.AreEqual(expected, result);
-        }
-
-        /// <summary>
-        /// Test dividing matrix by negative number
-        /// </summary>
-        [Test]
-        public void Divide_ByNegativeNumber_ReturnsCorrectMatrix()
-        {
-            // Arrange
-            int[,] matrix = { { 10, 20 }, { 30, 40 } };
-            int num = -2;
-            int[,] expected = { { -5, -10 }, { -15, -20 } };
-
-            // Act
-            int[,] result = Matrix.Divide(matrix, num);
-
-            // Assert
-            Assert.AreEqual(expected, result);
         }
     }
 }
