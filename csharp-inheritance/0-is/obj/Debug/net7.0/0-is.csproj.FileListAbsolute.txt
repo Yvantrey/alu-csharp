@@ -1,0 +1,15 @@
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\0-is\bin\Debug\net7.0\0-is.exe
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\0-is\bin\Debug\net7.0\0-is.deps.json
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\0-is\bin\Debug\net7.0\0-is.runtimeconfig.json
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\0-is\bin\Debug\net7.0\0-is.dll
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\0-is\bin\Debug\net7.0\0-is.pdb
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\0-is\obj\Debug\net7.0\0-is.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\0-is\obj\Debug\net7.0\0-is.AssemblyInfoInputs.cache
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\0-is\obj\Debug\net7.0\0-is.AssemblyInfo.cs
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\0-is\obj\Debug\net7.0\0-is.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\0-is\obj\Debug\net7.0\0-is.sourcelink.json
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\0-is\obj\Debug\net7.0\0-is.dll
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\0-is\obj\Debug\net7.0\refint\0-is.dll
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\0-is\obj\Debug\net7.0\0-is.pdb
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\0-is\obj\Debug\net7.0\0-is.genruntimeconfig.cache
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\0-is\obj\Debug\net7.0\ref\0-is.dll

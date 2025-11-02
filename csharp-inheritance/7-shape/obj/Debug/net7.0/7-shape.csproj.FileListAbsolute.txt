@@ -1,0 +1,15 @@
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.AssemblyInfoInputs.cache
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.AssemblyInfo.cs
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.sourcelink.json
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\7-shape\bin\Debug\net7.0\7-shape.exe
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\7-shape\bin\Debug\net7.0\7-shape.deps.json
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\7-shape\bin\Debug\net7.0\7-shape.runtimeconfig.json
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\7-shape\bin\Debug\net7.0\7-shape.dll
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\7-shape\bin\Debug\net7.0\7-shape.pdb
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.dll
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\refint\7-shape.dll
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.pdb
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\7-shape.genruntimeconfig.cache
+C:\Users\ADMIN\alu-csharp\csharp-inheritance\7-shape\obj\Debug\net7.0\ref\7-shape.dll
