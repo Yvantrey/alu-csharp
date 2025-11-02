@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "T2CVFfFE+bWRjweurl+uUZnKehBFbKHjAe62Boi1vA0S1RdONtkrEahpnucxo273vF+6xFKZJHakc7h3ILhVJg==",
+  "dgSpecHash": "qQSjryyc7cyDCvI/StftjtJh8BobJmnDEgl1zVWs0j8om+PoDYhksQ14ej1xkSGDzka8rQx71Wz7zCL0mO/Uvw==",
   "success": true,
   "projectFilePath": "D:\\Class\\ARVR\\alu-csharp-main\\csharp-tdd\\4-unique\\Text\\Text.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Yvan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Yvan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,11 @@
+D:\Class\ARVR\alu-csharp-main\csharp-tdd\3-palindrome\Text\bin\Debug\netstandard2.0\Text.xml
+D:\Class\ARVR\alu-csharp-main\csharp-tdd\3-palindrome\Text\bin\Debug\netstandard2.0\Text.deps.json
+D:\Class\ARVR\alu-csharp-main\csharp-tdd\3-palindrome\Text\bin\Debug\netstandard2.0\Text.dll
+D:\Class\ARVR\alu-csharp-main\csharp-tdd\3-palindrome\Text\bin\Debug\netstandard2.0\Text.pdb
+D:\Class\ARVR\alu-csharp-main\csharp-tdd\3-palindrome\Text\obj\Debug\netstandard2.0\Text.csproj.AssemblyReference.cache
+D:\Class\ARVR\alu-csharp-main\csharp-tdd\3-palindrome\Text\obj\Debug\netstandard2.0\Text.GeneratedMSBuildEditorConfig.editorconfig
+D:\Class\ARVR\alu-csharp-main\csharp-tdd\3-palindrome\Text\obj\Debug\netstandard2.0\Text.AssemblyInfoInputs.cache
+D:\Class\ARVR\alu-csharp-main\csharp-tdd\3-palindrome\Text\obj\Debug\netstandard2.0\Text.AssemblyInfo.cs
+D:\Class\ARVR\alu-csharp-main\csharp-tdd\3-palindrome\Text\obj\Debug\netstandard2.0\Text.csproj.CoreCompileInputs.cache
+D:\Class\ARVR\alu-csharp-main\csharp-tdd\3-palindrome\Text\obj\Debug\netstandard2.0\Text.dll
+D:\Class\ARVR\alu-csharp-main\csharp-tdd\3-palindrome\Text\obj\Debug\netstandard2.0\Text.pdb

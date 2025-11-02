@@ -136,7 +136,7 @@ namespace Text.Tests
         {
             // Arrange
             string s = "iOSApp";
-            int expected = 3;
+            int expected = 4; // i + O + S + A = 4 words
 
             // Act
             int result = Str.CamelCase(s);
