@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FQxK9JT2PHbmbw12eQYuQ+N/IqHrMLoI1KG4HQGzXG3IC9wTjrPMwYx6bjENexIi6QyWhyojm76C6A+Pz4D9sw==",
+  "dgSpecHash": "Ds99MdDtZ5U3FCU8RmkylimuRM7zdMO9Q54ixe+wyfml8BkeSHfNN5QeTWQAjUxs2UlyMvw3Rd4wnEu0MFoGvA==",
   "success": true,
-  "projectFilePath": "D:\\Class\\ARVR\\alu-csharp-main\\csharp-tdd\\2-max_int\\MyMath\\MyMath.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Yvan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Yvan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\ADMIN\\alu-csharp\\csharp-tdd\\2-max_int\\MyMath\\MyMath.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

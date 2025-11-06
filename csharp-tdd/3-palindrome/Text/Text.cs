@@ -1,34 +1,27 @@
 ﻿using System;
-using System.Linq;
+using System.Text;
+using System.Text.RegularExpressions;
 
 namespace Text
 {
     /// <summary>
-    /// Provides string manipulation operations
+    /// Provides string-related utilities.
     /// </summary>
     public class Str
     {
         /// <summary>
-        /// Determines if a string is a palindrome
+        /// Determines if a string is a palindrome.
+        /// Ignores case, spaces, and punctuation.
         /// </summary>
-        /// <param name="s">The string to check</param>
-        /// <returns>True if the string is a palindrome, False otherwise</returns>
+        /// <param name="s">Input string</param>
+        /// <returns>True if palindrome, False otherwise</returns>
         public static bool IsPalindrome(string s)
         {
-            // Empty string is considered a palindrome
-            if (string.IsNullOrEmpty(s))
-                return true;
+            if (s == null) return false;
 
-            // Remove spaces, punctuation and convert to lowercase
-            string cleaned = new string(s.Where(c => char.IsLetterOrDigit(c))
-                                         .Select(c => char.ToLower(c))
-                                         .ToArray());
+            // Remove non-alphanumeric characters and convert to lower case
+            string cleaned = Regex.Replace(s, @"[^a-zA-Z0-9]", "").ToLower();
 
-            // Empty after cleaning is still a palindrome
-            if (cleaned.Length == 0)
-                return true;
-
-            // Check if the cleaned string is equal to its reverse
             int left = 0;
             int right = cleaned.Length - 1;
 

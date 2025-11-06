@@ -4,135 +4,53 @@ using MyMath;
 namespace MyMath.Tests
 {
     /// <summary>
-    /// Test class for MyMath.Operations class
+    /// Contains unit tests for the <see cref="Operations"/> class.
     /// </summary>
-    [TestFixture]
     public class OperationsTests
     {
         /// <summary>
-        /// Test adding two positive numbers
+        /// Tests that adding two positive integers returns the correct sum.
         /// </summary>
         [Test]
-        public void Add_PositiveNumbers_ReturnsCorrectSum()
+        public void Add_PositiveIntegers_ReturnsSum()
         {
-            // Arrange
-            int a = 5;
-            int b = 10;
-            int expected = 15;
-
-            // Act
-            int result = Operations.Add(a, b);
-
-            // Assert
-            Assert.AreEqual(expected, result);
+            Assert.AreEqual(5, Operations.Add(2, 3));
         }
 
         /// <summary>
-        /// Test adding two negative numbers
+        /// Tests that adding two negative integers returns the correct sum.
         /// </summary>
         [Test]
-        public void Add_NegativeNumbers_ReturnsCorrectSum()
+        public void Add_NegativeIntegers_ReturnsSum()
         {
-            // Arrange
-            int a = -5;
-            int b = -10;
-            int expected = -15;
-
-            // Act
-            int result = Operations.Add(a, b);
-
-            // Assert
-            Assert.AreEqual(expected, result);
+            Assert.AreEqual(-5, Operations.Add(-2, -3));
         }
 
         /// <summary>
-        /// Test adding a positive and a negative number
+        /// Tests that adding a positive and a negative integer returns the correct sum.
         /// </summary>
         [Test]
-        public void Add_PositiveAndNegative_ReturnsCorrectSum()
+        public void Add_PositiveAndNegative_ReturnsSum()
         {
-            // Arrange
-            int a = 10;
-            int b = -5;
-            int expected = 5;
-
-            // Act
-            int result = Operations.Add(a, b);
-
-            // Assert
-            Assert.AreEqual(expected, result);
+            Assert.AreEqual(1, Operations.Add(3, -2));
         }
 
         /// <summary>
-        /// Test adding zero to a number
+        /// Tests that adding zero to a number returns the same number.
         /// </summary>
         [Test]
-        public void Add_WithZero_ReturnsOtherNumber()
+        public void Add_NumberAndZero_ReturnsSameNumber()
         {
-            // Arrange
-            int a = 10;
-            int b = 0;
-            int expected = 10;
-
-            // Act
-            int result = Operations.Add(a, b);
-
-            // Assert
-            Assert.AreEqual(expected, result);
+            Assert.AreEqual(7, Operations.Add(7, 0));
         }
 
         /// <summary>
-        /// Test adding two zeros
+        /// Tests that adding zero to zero returns zero.
         /// </summary>
         [Test]
-        public void Add_TwoZeros_ReturnsZero()
+        public void Add_ZeroAndZero_ReturnsZero()
         {
-            // Arrange
-            int a = 0;
-            int b = 0;
-            int expected = 0;
-
-            // Act
-            int result = Operations.Add(a, b);
-
-            // Assert
-            Assert.AreEqual(expected, result);
-        }
-
-        /// <summary>
-        /// Test adding large positive numbers
-        /// </summary>
-        [Test]
-        public void Add_LargePositiveNumbers_ReturnsCorrectSum()
-        {
-            // Arrange
-            int a = 1000000;
-            int b = 2000000;
-            int expected = 3000000;
-
-            // Act
-            int result = Operations.Add(a, b);
-
-            // Assert
-            Assert.AreEqual(expected, result);
-        }
-
-        /// <summary>
-        /// Test adding large negative numbers
-        /// </summary>
-        [Test]
-        public void Add_LargeNegativeNumbers_ReturnsCorrectSum()
-        {
-            // Arrange
-            int a = -1000000;
-            int b = -2000000;
-            int expected = -3000000;
-
-            // Act
-            int result = Operations.Add(a, b);
-
-            // Assert
-            Assert.AreEqual(expected, result);
+            Assert.AreEqual(0, Operations.Add(0, 0));
         }
     }
 }

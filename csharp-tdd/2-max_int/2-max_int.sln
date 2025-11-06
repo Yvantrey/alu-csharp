@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMath", "MyMath\MyMath.csproj", "{3D57827F-2742-4EE5-85B2-006C010C13DF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMath", "MyMath\MyMath.csproj", "{9B7EEB15-5BEE-417F-B30B-AA678BC5395C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMath.Tests", "MyMath.Tests\MyMath.Tests.csproj", "{22BD3F39-1416-4110-9E6A-198306647076}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMath.Tests", "MyMath.Tests\MyMath.Tests.csproj", "{99C36611-EB41-46F4-A444-79CC27357EAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,13 +16,13 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3D57827F-2742-4EE5-85B2-006C010C13DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3D57827F-2742-4EE5-85B2-006C010C13DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3D57827F-2742-4EE5-85B2-006C010C13DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3D57827F-2742-4EE5-85B2-006C010C13DF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{22BD3F39-1416-4110-9E6A-198306647076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{22BD3F39-1416-4110-9E6A-198306647076}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{22BD3F39-1416-4110-9E6A-198306647076}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{22BD3F39-1416-4110-9E6A-198306647076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B7EEB15-5BEE-417F-B30B-AA678BC5395C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B7EEB15-5BEE-417F-B30B-AA678BC5395C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B7EEB15-5BEE-417F-B30B-AA678BC5395C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B7EEB15-5BEE-417F-B30B-AA678BC5395C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99C36611-EB41-46F4-A444-79CC27357EAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C36611-EB41-46F4-A444-79CC27357EAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C36611-EB41-46F4-A444-79CC27357EAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C36611-EB41-46F4-A444-79CC27357EAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
