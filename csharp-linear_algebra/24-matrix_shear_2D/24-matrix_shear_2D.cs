@@ -14,45 +14,27 @@ public class MatrixMath
     /// </returns>
     public static double[,] Shear2D(double[,] matrix, char direction, double factor)
     {
-        if (matrix == null)
-            return new double[,] { { -1 } };
-
-        int rows = matrix.GetLength(0);
-        int cols = matrix.GetLength(1);
-
-        if (rows != cols)
+        if (matrix == null || matrix.GetLength(0) != 2 || matrix.GetLength(1) != 2)
             return new double[,] { { -1 } };
 
         if (direction != 'x' && direction != 'y')
             return new double[,] { { -1 } };
 
-        double[,] shearMatrix = new double[rows, rows];
-        for (int i = 0; i < rows; i++)
-        {
-            for (int j = 0; j < rows; j++)
-            {
-                if (i == j)
-                    shearMatrix[i, j] = 1;
-                else if (direction == 'x' && i == 0 && j == 1)
-                    shearMatrix[i, j] = factor;
-                else if (direction == 'y' && i == 1 && j == 0)
-                    shearMatrix[i, j] = factor;
-                else
-                    shearMatrix[i, j] = 0;
-            }
-        }
+        double[,] result = new double[2, 2];
 
-        double[,] result = new double[rows, cols];
-        for (int i = 0; i < rows; i++)
+        if (direction == 'x')
         {
-            for (int j = 0; j < cols; j++)
-            {
-                result[i, j] = 0;
-                for (int k = 0; k < rows; k++)
-                {
-                    result[i, j] += shearMatrix[i, k] * matrix[k, j];
-                }
-            }
+            result[0, 0] = matrix[0, 0] + factor * matrix[1, 0];
+            result[1, 0] = matrix[1, 0];
+            result[0, 1] = matrix[0, 1] + factor * matrix[1, 1];
+            result[1, 1] = matrix[1, 1];
+        }
+        else
+        {
+            result[0, 0] = matrix[0, 0];
+            result[1, 0] = matrix[1, 0] + factor * matrix[0, 0];
+            result[0, 1] = matrix[0, 1];
+            result[1, 1] = matrix[1, 1] + factor * matrix[0, 1];
         }
 
         return result;
