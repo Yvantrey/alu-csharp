@@ -13,3 +13,17 @@ C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics
 C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\2-dequeue\obj\Debug\net7.0\2-dequeue.pdb
 C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\2-dequeue\obj\Debug\net7.0\2-dequeue.genruntimeconfig.cache
 C:\Users\HP\Desktop\The Cave\Software\PortableGit\ALU\alu-csharp\csharp-generics\2-dequeue\obj\Debug\net7.0\ref\2-dequeue.dll
+C:\Users\Yvan\Downloads\alu-csharp\csharp-generics\2-dequeue\bin\Debug\net7.0\2-dequeue.exe
+C:\Users\Yvan\Downloads\alu-csharp\csharp-generics\2-dequeue\bin\Debug\net7.0\2-dequeue.deps.json
+C:\Users\Yvan\Downloads\alu-csharp\csharp-generics\2-dequeue\bin\Debug\net7.0\2-dequeue.runtimeconfig.json
+C:\Users\Yvan\Downloads\alu-csharp\csharp-generics\2-dequeue\bin\Debug\net7.0\2-dequeue.dll
+C:\Users\Yvan\Downloads\alu-csharp\csharp-generics\2-dequeue\bin\Debug\net7.0\2-dequeue.pdb
+C:\Users\Yvan\Downloads\alu-csharp\csharp-generics\2-dequeue\obj\Debug\net7.0\2-dequeue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yvan\Downloads\alu-csharp\csharp-generics\2-dequeue\obj\Debug\net7.0\2-dequeue.AssemblyInfoInputs.cache
+C:\Users\Yvan\Downloads\alu-csharp\csharp-generics\2-dequeue\obj\Debug\net7.0\2-dequeue.AssemblyInfo.cs
+C:\Users\Yvan\Downloads\alu-csharp\csharp-generics\2-dequeue\obj\Debug\net7.0\2-dequeue.csproj.CoreCompileInputs.cache
+C:\Users\Yvan\Downloads\alu-csharp\csharp-generics\2-dequeue\obj\Debug\net7.0\2-dequeue.dll
+C:\Users\Yvan\Downloads\alu-csharp\csharp-generics\2-dequeue\obj\Debug\net7.0\refint\2-dequeue.dll
+C:\Users\Yvan\Downloads\alu-csharp\csharp-generics\2-dequeue\obj\Debug\net7.0\2-dequeue.pdb
+C:\Users\Yvan\Downloads\alu-csharp\csharp-generics\2-dequeue\obj\Debug\net7.0\2-dequeue.genruntimeconfig.cache
+C:\Users\Yvan\Downloads\alu-csharp\csharp-generics\2-dequeue\obj\Debug\net7.0\ref\2-dequeue.dll

@@ -8,26 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\Yvan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\The Cave\\Software\\PortableGit\\ALU\\alu-csharp\\csharp-generics\\2-dequeue\\2-dequeue.csproj",
+      "projectUniqueName": "C:\\Users\\Yvan\\Downloads\\alu-csharp\\csharp-generics\\2-dequeue\\2-dequeue.csproj",
       "projectName": "2-dequeue",
-      "projectPath": "C:\\Users\\HP\\Desktop\\The Cave\\Software\\PortableGit\\ALU\\alu-csharp\\csharp-generics\\2-dequeue\\2-dequeue.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\The Cave\\Software\\PortableGit\\ALU\\alu-csharp\\csharp-generics\\2-dequeue\\obj\\",
+      "projectPath": "C:\\Users\\Yvan\\Downloads\\alu-csharp\\csharp-generics\\2-dequeue\\2-dequeue.csproj",
+      "packagesPath": "C:\\Users\\Yvan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Yvan\\Downloads\\alu-csharp\\csharp-generics\\2-dequeue\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Yvan\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -40,13 +38,7 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net7.0": {
@@ -67,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
       }
     }
   }
